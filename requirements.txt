@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+streamlit
+streamlit-webrtc
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+SQLAlchemy
+av

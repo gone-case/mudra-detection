@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Streamlit Cache
+.streamlit/
+*.egg-info/
+.pytest_cache/
+
+# Dataset and Output logs
+dataset/
+logs/
+*.log
+models/
+
+
+# Database files so user progress doesn't sync to the repo
+*.sqlite
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Machine Learning models (Optional)
+# If your .pkl files are over 50-100MB, uncomment the line below so Git doesn't crash
+# models/*.pkl
+
+# Essential MediaPipe model files - DO NOT IGNORE for deployment
+!hand_landmarker.task
