@@ -45,7 +45,7 @@ NumPy
 Scikit-learn
 
 🚀 Setup
-git clone https://github.com/<your-username>/mudra-detection.git
+git clone https://github.com/gone-case/mudra-detection.git
 cd mudra-detection
 
 python -m venv venv
